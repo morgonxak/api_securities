@@ -8,9 +8,6 @@ import json
 import os
 from datetime import datetime
 
-# login = 'radaartem@mail.ru'
-# password = '1986ArchibaldTheFurst'
-
 login = os.getenv('MOEX_LOGIN')
 password = os.getenv('MOEX_PASSWORD')
 
