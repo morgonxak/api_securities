@@ -1,0 +1,6 @@
+create_venv_pass.sh
+.idea/
+api_securities.egg-info
+api_securities/__pycache__/
+test/__pycache__/
+.pytest_cache
